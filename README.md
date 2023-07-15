@@ -1,5 +1,4 @@
-Chapter 3
-Mobile App Testing
+week 3:Mobile App Testing
 Mobile app testing is the process of evaluating and verifying the quality, functionality, and performance of mobile applications across various devices, operating systems, and networks. It aims to ensure that the app delivers a seamless user experience and meets the desired requirements. Mobile app testing typically includes the following aspects:
 
 1. Functional Testing: This involves testing the core functionality of the app, such as user interactions, input validations, navigation, and error handling. It ensures that the app functions correctly and meets the specified requirements.
